@@ -1,0 +1,76 @@
+/* Style do Exercício 03 */
+
+/* Fundo cinza claro e texto preto */
+.pagina-ex2 {
+    background-color: #f0f0f0;
+    color: #000000;
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+/* Título azul */
+.titulo-azul {
+    color: #0056b3;
+}
+
+
+/* Desafio Profissional */
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #e9ecef;
+    margin: 0;
+    padding: 20px;
+    color: #333333;
+}
+
+/* Container centralizado para dar cara profissional */
+.cartao-empresa {
+    max-width: 750px;
+    margin: 20px auto;
+    background-color: #ffffff;
+    padding: 30px;
+    border-radius: 6px;
+    border: 1px solid #cccccc;
+}
+
+/* Nome da empresa e cabeçalho */
+.topo-empresa {
+    border-bottom: 2px solid #0056b3;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+}
+
+.topo-empresa h1 {
+    color: #0056b3;
+    margin: 0;
+    font-size: 26px;
+}
+
+.subtitulo-empresa {
+    color: #666666;
+    margin-top: 5px;
+    font-size: 15px;
+}
+
+/* Seções de serviços e contato */
+.secao h2 {
+    color: #222222;
+    border-left: 4px solid #0056b3;
+    padding-left: 8px;
+    margin-top: 25px;
+    font-size: 18px;
+}
+
+.lista-servicos {
+    line-height: 1.8;
+}
+
+/* Caixa destacada para contatos */
+.caixa-contato {
+    background-color: #eaf2ff;
+    padding: 15px;
+    border-radius: 4px;
+    margin-top: 15px;
+    line-height: 1.6;
+}
